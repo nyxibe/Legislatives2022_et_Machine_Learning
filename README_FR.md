@@ -170,6 +170,6 @@ streamlit run Accueil.py
 Dans le cas où vous ne voulez rien installer. Vous pouvez aller directement sur [Hugging Face Space](https://huggingface.co/spaces/NYX-fr/Legislatives2022_et_Machine_Learning) créé pour l'occasion.
 
 ## Auteurs
-- [NNicolas-Yves](https://github.com/nyxibe)
+- [Nicolas-Yves](https://github.com/nyxibe)
 - [Caicaire93](https://github.com/Caicaire93)
 - [Anouaradyel2](https://github.com/anouaradyel2)

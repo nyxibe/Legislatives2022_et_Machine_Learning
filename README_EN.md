@@ -162,6 +162,6 @@ In case you want to test the AI models used in this project, without having to i
 
 ## Authors
 
-- [NNicolas-Yves](https://github.com/nyxibe)
+- [Nicolas-Yves](https://github.com/nyxibe)
 - [Caicaire93](https://github.com/Caicaire93)
 - [Anouaradyel2](https://github.com/anouaradyel2)
