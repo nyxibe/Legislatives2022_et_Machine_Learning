@@ -1,4 +1,5 @@
 # HISTO POLITIK : M.L. & Sciences Sociales
+https://huggingface.co/spaces/NYX-fr/Legislatives2022_et_Machine_Learning
 
 #### The idea: Who votes for whom and why?
 What is the social structure of the electorates of the various political movements and currents?
@@ -42,12 +43,12 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/nyxibe/HistoPolitik_2.git
+git clone https://github.com/nyxibe/Legislatives2022_et_Machine_Learning.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd HistoPolitik_2
+cd Legislatives2022_et_Machine_Learning
 ```
 
 3. Create a virtual environment (recommended):
@@ -157,10 +158,10 @@ streamlit run Accueil.py
 
 ## HuggingFace space
 
-In case you want to test the AI models used in this project, without having to install anything on your machine, you can take a look at the [HuggingFace Space](https://huggingface.co/spaces/Caicaire93/Histo_politik) créé pour l'occasion.
+In case you want to test the AI models used in this project, without having to install anything on your machine, you can take a look at the [HuggingFace Space](https://huggingface.co/spaces/NYX-fr/Legislatives2022_et_Machine_Learning) créé pour l'occasion.
 
 ## Authors
 
-- [NYX](https://github.com/nyxibe)
+- [NNicolas-Yves](https://github.com/nyxibe)
 - [Caicaire93](https://github.com/Caicaire93)
 - [Anouaradyel2](https://github.com/anouaradyel2)

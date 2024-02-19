@@ -1,4 +1,5 @@
 # HISTO POLITIK : M.L. & Sciences Sociales
+https://huggingface.co/spaces/NYX-fr/Legislatives2022_et_Machine_Learning
 
 #### L'idée : Qui vote pour qui et pourquoi ?
 
@@ -43,12 +44,12 @@ Avant de commencer, assurez vous d'avoir ces 2 programmes d'installés:
 
 1. Cloner le dépôt sur votre machine:
 ```bash
-git clone https://github.com/nyxibe/HistoPolitik_2.git
+git clone https://github.com/nyxibe/Legislatives2022_et_Machine_Learning.git
 ```
 
 2. Naviguer jusqu'au dossier:
 ```bash
-cd HistoPolitik_2
+cd Legislatives2022_et_Machine_Learning
 ```
 
 3. Créer un environnement (recommandé):
@@ -166,9 +167,9 @@ streamlit run Accueil.py
 - pages/Modèles.py : Visualiser les facteurs d'importances (ex: age, diplôme, nombre de crimes...) par partis politiques support à notre prédiction.
 
 ## HuggingFace space
-Dans le cas où vous ne voulez rien installer. Vous pouvez aller directement sur [Hugging Face Space](https://huggingface.co/spaces/Caicaire93/Histo_politik) créé pour l'occasion.
+Dans le cas où vous ne voulez rien installer. Vous pouvez aller directement sur [Hugging Face Space](https://huggingface.co/spaces/NYX-fr/Legislatives2022_et_Machine_Learning) créé pour l'occasion.
 
 ## Auteurs
-- [NYX](https://github.com/nyxibe)
+- [NNicolas-Yves](https://github.com/nyxibe)
 - [Caicaire93](https://github.com/Caicaire93)
 - [Anouaradyel2](https://github.com/anouaradyel2)
